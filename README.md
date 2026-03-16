@@ -64,4 +64,4 @@ Explore the following resources for detailed configuration, testing, and API ref
 
 **Generating Docs:** If the `target` folder is missing, run `mvn javadoc:javadoc` to build the API HTML files.
 
-*Note: If viewing in an IDE like IntelliJ, right-click the file at `./target/site/apidocs/index.html` and select 'Open in Browser' to view the full API reference.*
+*Note: This is the published Javadoc, generated directly from the project's source code. The Maven commands were used to generate it but cannot be executed in this repository, as it contains only the HTML files.*
